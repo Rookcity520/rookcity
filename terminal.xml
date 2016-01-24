@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myShellPath" value="C:\Users\samir\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe" />
+    <option name="myCloseSessionOnLogout" value="false" />
   </component>
 </application>
